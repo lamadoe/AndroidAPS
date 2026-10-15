@@ -1,4 +1,4 @@
-name: AAPS CI
+name: AAPS CI 3.4.2.6
 
 on:
   workflow_dispatch:
